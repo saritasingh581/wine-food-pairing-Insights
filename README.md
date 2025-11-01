@@ -1,8 +1,9 @@
-🍷 Wine & Food Pairing Dashboard
-📊 Project Overview
+🍷 Wine & Food Pairing Dashboard  
 
-This Power BI project explores the relationship between wine types and food pairings, analyzing how well different combinations work together.
-The dashboard highlights insights like average pairing quality, top-performing cuisines, and excellence rates — helping visualize the art of wine-food pairing through data.
+📊 Project Overview  
+
+This Power BI project explores the relationship between wine types and food pairings, analyzing how well different combinations work together.  
+The dashboard highlights insights like average pairing quality, top-performing cuisines, and excellence rates — helping visualize the art of wine-food pairing through data.  
 
 🧩 Key KPIs
 
