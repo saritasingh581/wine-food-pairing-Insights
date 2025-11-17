@@ -51,13 +51,13 @@ The dataset used in this project was sourced from Kaggle, containing information
 
 4. Explore interactive visuals and analyze pairing trends.
 
-📁 Repository Contents
-├── Wine_Food_Pairing_Dashboard.pbix         # Power BI dashboard file
-├── Dashboard_Demo.mp4                       # Dashboard walkthrough video
-├── Dashboard_Image.png                      # Snapshot of the final dashboard
-├── Raw_Dataset.xlsx                         # Original dataset (from Kaggle)
-├── Cleaned_Dataset.xlsx                     # Processed dataset used in dashboard
-├── README.md                                # Project documentation
+📁 Repository Contents  
+├── Wine_Food_Pairing_Dashboard.pbix         # Power BI dashboard file  
+├── Dashboard_Demo.mp4                       # Dashboard walkthrough video  
+├── Dashboard_Image.png                      # Snapshot of the final dashboard  
+├── Raw_Dataset.xlsx                         # Original dataset (from Kaggle)  
+├── Cleaned_Dataset.xlsx                     # Processed dataset used in dashboard  
+├── README.md                                # Project documentation  
 
 🔗 Source
 
