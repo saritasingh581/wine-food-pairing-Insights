@@ -33,14 +33,6 @@ The dataset used in this project was sourced from Kaggle, containing information
 
 - Cleaned_Dataset.csv → Preprocessed dataset used in Power BI
 
-📽️ Dashboard Demo
-
-🎬 Watch Dashboard Demo (MP4)
-
-🖼️ Dashboard Preview
-
-Below is a snapshot of the final Power BI dashboard:
-
 🧠 Key Insights
 
 Red wines show higher pairing quality with cheese and meat dishes.
