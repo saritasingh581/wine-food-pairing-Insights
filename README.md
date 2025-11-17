@@ -7,15 +7,15 @@ The dashboard highlights insights like average pairing quality, top-performing c
 
 🧩 Key KPIs
 
-Total Pairings — Total number of wine–food combinations
+- Total Pairings — Total number of wine–food combinations
 
-Average Pairing Quality — Average quality rating across all pairings
+- Average Pairing Quality — Average quality rating across all pairings
 
-Excellent Pairing % — Percentage of pairings rated as “Excellent”
+- Excellent Pairing % — Percentage of pairings rated as “Excellent”
 
-High Quality Pairing % — Percentage of pairings rated as “High Quality”
+- High Quality Pairing % — Percentage of pairings rated as “High Quality”
 
-(Optional additions if you’ve added more): Average Quality by Cuisine, Average Quality by Wine Type
+- Average Quality by Cuisine, Average Quality by Wine Type
 
 ⚙️ Tools Used
 
