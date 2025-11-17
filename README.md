@@ -35,21 +35,21 @@ The dataset used in this project was sourced from Kaggle, containing information
 
 🧠 Key Insights
 
-Red wines show higher pairing quality with cheese and meat dishes.
+- Red wines show higher pairing quality with cheese and meat dishes.
 
-Seafood and desserts often rate lower in pairing quality.
+- Seafood and desserts often rate lower in pairing quality.
 
-Only a small percentage of pairings reach the “Excellent” level, showing room for experimentation.
+- Only a small percentage of pairings reach the “Excellent” level, showing room for experimentation.
 
 💡 How to Use
 
-Download or clone this repository.
+1. Download or clone this repository.
 
-Open Wine_Food_Pairing_Dashboard.pbix in Power BI Desktop.
+2. Open Wine_Food_Pairing_Dashboard.pbix in Power BI Desktop.
 
-Use slicers to filter by cuisine, food category, or wine type.
+3. Use slicers to filter by cuisine, food category, or wine type.
 
-Explore interactive visuals and analyze pairing trends.
+4. Explore interactive visuals and analyze pairing trends.
 
 📁 Repository Contents
 ├── Wine_Food_Pairing_Dashboard.pbix         # Power BI dashboard file
