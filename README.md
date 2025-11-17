@@ -15,17 +15,15 @@ The dashboard highlights insights like average pairing quality, top-performing c
 
 - High Quality Pairing % — Percentage of pairings rated as “High Quality”
 
-- Average Quality by Cuisine, Average Quality by Wine Type
-
 ⚙️ Tools Used
 
-Power BI – for data visualization & dashboard creation
+- Power BI – for data visualization & dashboard creation
 
-Excel – for cleaning and preparing datasets
+- Excel – for cleaning and preparing datasets
 
-DAX (Data Analysis Expressions) – for calculated measures and KPIs
+- DAX (Data Analysis Expressions) – for calculated measures and KPIs
 
-Kaggle Dataset – as the data source
+- Kaggle Dataset – Source of raw data
 
 🗂️ Dataset Information
 
