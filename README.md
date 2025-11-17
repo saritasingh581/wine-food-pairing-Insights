@@ -29,9 +29,9 @@ The dashboard highlights insights like average pairing quality, top-performing c
 
 The dataset used in this project was sourced from Kaggle, containing information about wine and food pairing quality, cuisine types, and pairing scores.
 
-Raw_Dataset.xlsx → Original dataset directly from Kaggle
+- Raw_Dataset.xlsx → Original dataset directly from Kaggle
 
-Cleaned_Dataset.xlsx → Preprocessed dataset used in Power BI
+- Cleaned_Dataset.xlsx → Preprocessed dataset used in Power BI
 
 📽️ Dashboard Demo
 
